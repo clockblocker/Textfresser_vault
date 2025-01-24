@@ -1,5 +1,12 @@
-Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, aus!
-  
+*(Да, эта песня реально начинается с немецких числительных)*
+
+[[Eins]], [[zwei]], [[drei]], [[vier]], [[fünf]], sechs, sieben, acht, neun, aus!
+
+*Первые 5 из них кто-то заботливо взял в скобочки.*
+*[[Eins]] светится, значит в нем что-то есть.*
+
+Давай в него прыгнем -> [[Eins]] <- Прыг!
+
 Alle warten auf das Licht  
 Fürchtet euch, fürchtet euch nicht  
 Die Sonne scheint mir aus den AugenSie wird heut Nacht nicht untergeh'n  
