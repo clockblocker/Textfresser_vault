@@ -1,8 +1,12 @@
-# Bild your German passive vocabulary, by extracting words' meaning from context 
+# Read german texts. Collect contexts for unknown words. Build passive vocabulary.
 
-Open a file with German text.
-For every unknown word, generate a structured vocabulary entry with context from the text.
-Enjoy the web of your personal dictionary.
+Open a file with a German text.
+
+For every unknown word, generate a structured vocabulary entry. 
+
+Add context from the text.
+
+Enjoy the ever-growing web of your personal dictionary.
 
 ![The vocabulary in action](./Anhänge/image.png)
 
