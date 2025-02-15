@@ -1,12 +1,27 @@
 {
   "main": {
-    "id": "b846cf726449bfe6",
+    "id": "78e0d8047218b580",
     "type": "split",
     "children": [
       {
-        "id": "93c063870eebca67",
+        "id": "3feeee3bf318fadc",
         "type": "tabs",
-        "children": []
+        "children": [
+          {
+            "id": "b9ed9285a2c0ea85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/sollen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sollen"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -14,14 +29,131 @@
   "left": {
     "id": "9afda5a47d6add56",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "aa28f61c4afdd0eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3d7ebf8e84f86a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d870d64ffaedd51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "198b6d17a28d3858",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200
   },
   "right": {
     "id": "ed1660b1377ffd35",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "ad704801ee75d021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761a07409215c32e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Worter/sollen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for sollen"
+            }
+          },
+          {
+            "id": "d05e8944970a89fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Worter/sollen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sollen"
+            }
+          },
+          {
+            "id": "3454d6cb13cb7a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3df093186c8fb673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worter/sollen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sollen"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -37,6 +169,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac5fe225ed9199b6",
-  "lastOpenFiles": []
+  "active": "b9ed9285a2c0ea85",
+  "lastOpenFiles": [
+    "Worter/gesollt.md",
+    "Worter/sollen.md"
+  ]
 }
