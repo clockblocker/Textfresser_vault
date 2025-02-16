@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3feeee3bf318fadc",
+        "id": "2d6807f67dbeb5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ed9285a2c0ea85",
+            "id": "cc7c0cd1f3177e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/sollen.md",
+                "file": "Обучение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sollen"
+              "title": "Обучение"
             }
           }
         ]
@@ -169,9 +169,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b9ed9285a2c0ea85",
+  "active": "cc7c0cd1f3177e99",
   "lastOpenFiles": [
+    "Texte/Extra/1.3 Sams Ankunft.md",
+    "Texte/Extra/1.2 Sams Ankunft.md",
+    "Обучение.md",
+    "Worter/если ты не впервые видишь обсидиан, нажми сюда, тут сразу ссылка на гайд по плагину для немецкого.md",
+    "Worter/аufpаssеn.md",
+    "Texte/Rammstein/Sonne.md",
+    "Worter/Eins.md",
+    "Worter/Wortlisten/Der List der Zahlen.md",
+    "Worter/СЛОВО_1.md",
+    "Worter/sollt.md",
+    "Worter/zwei.md",
+    "Texte/Extra/1.1 Sams Ankunft.md",
+    "Worter/Geschichte.md",
+    "Texte/Misk/Спряжение глагола sollen.md",
+    "Worter/sollen.md",
+    "Worter/zweiteste.md",
+    "Worter/Слово, взятое в двойные квадратные скобки.md",
+    "Anhänge/Pasted image 20250216072957.png",
     "Worter/gesollt.md",
-    "Worter/sollen.md"
+    "Worter/zehn.md",
+    "Tutorial.md",
+    "Texte/Extra/1.6 Sams Ankunft.md",
+    "Texte/Extra/2 Sam Geht Einkaufen.md",
+    "Texte/Extra/1.5 Sams Ankunft.md",
+    "Texte/Extra/1.4 Sams Ankunft.md",
+    "Texte/Extra/done",
+    "Texte/Extra"
   ]
 }
