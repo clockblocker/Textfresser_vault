@@ -1,0 +1,6 @@
+.cm-blockid {
+    color: var(--text-faint) !important;
+    font-style: italic;
+    font-size: 8px !important;
+    top: -0.2em !important;
+}

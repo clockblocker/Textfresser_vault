@@ -2,7 +2,9 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "default-img-size",
-    "custom-links"
+    "custom-links",
+    "custom-highlighting",
+    "custom-block-ids"
   ],
   "translucency": false,
   "cssTheme": "Things"
