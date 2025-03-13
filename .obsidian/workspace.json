@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "380bb63a932cbee0",
+        "id": "b69f76c82b3df33a",
         "type": "tabs",
         "children": [
           {
@@ -171,6 +171,8 @@
   },
   "active": "70082ee98460e107",
   "lastOpenFiles": [
+    "Обучение.md",
+    "Worter/Tanzen.md",
     "Worter/СЛОВО_1.md",
     "Worter/аufpаssеn.md",
     "Texte/Rammstein/Sonne.md",
@@ -179,7 +181,6 @@
     "Worter/zweiteste.md",
     "Worter/zwei.md",
     "Worter/Слово, взятое в двойные квадратные скобки.md",
-    "Обучение.md",
     "Texte/Extra/1.1 Sams Ankunft.md"
   ]
 }
