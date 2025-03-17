@@ -10,10 +10,9 @@
     line-height: 8px;
 }
 
-.cm-hmd-internal-link.cm-link-alias {
-    opacity: 0.3; /* or whatever you wanna do */
-}
-
-.cm-hmd-internal-link.cm-link-alias.cm-list-1 {
-    opacity: 1 !important;
+/* select *[[...|...]]* */
+.cm-em.cm-hmd-internal-link.cm-link-alias {
+    opacity: 0.3;
+    /* remove italics */
+    font-style: normal;
 }

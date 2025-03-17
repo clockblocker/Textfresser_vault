@@ -377,7 +377,8 @@ If a word can be a form of multiple parts of speach, list all options, separated
 "Nieser", -> "\u{1F927} [[niesen]] | \u{1F535} der [[Nieser]] \u{1F927}",
 "Heimwerken" -> "[[heimwerken]] | [[Heimwerk]]",
 "deutschen" -> "\u{1F535} der [[Deutsche]] \u{1F1E9}\u{1F1EA} | \u{1F1E9}\u{1F1EA} [[deutsch]]",
-"unb\xE4ndiges" -> "\u{1F4AA} [[unb\xE4ndig]] | \u{1F7E2} das [[Unb\xE4ndige]] \u{1F4AA}"
+"unb\xE4ndiges" -> "\u{1F4AA} [[unb\xE4ndig]] | \u{1F7E2} das [[Unb\xE4ndige]] \u{1F4AA}",
+"gehobener" -> "\u{1F3A9} gehoben",
 `;var De=`<assistant_role>You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a normal form of a given German word, following a precise syntax notation.</assistant_role>
 
 <instructions>
@@ -896,7 +897,7 @@ Wir [[anschauen|schauen]] uns mal [[anschauen|an]], wie das [[funktionieren|funk
 <agent_input>[[There]] is a possibility ==of the== disaster.<agent_input>
 </example>
 </examples>
-`;var T=require("obsidian"),w="\u2014";function Q(e,n,t){return e=e.replace(/[\s\n]+$/,""),`${`[[${n}#^${t}|^]]`} ${e} ^${t}
+`;var T=require("obsidian"),w="\u2014";function Q(e,n,t){return e=e.replace(/[\s\n]+$/,""),`${`*[[${n}#^${t}|^]]*`} ${e} ^${t}
 `}async function H(e,n,t){try{let i=(0,T.normalizePath)(n),r=e.getAbstractFileByPath(i);if((!r||!(r instanceof T.TFile))&&(await e.create(i,""),r=e.getAbstractFileByPath(i),!r||!(r instanceof T.TFile))){console.error(`Failed to create file "${i}".`);return}await e.process(r,a=>a+t)}catch(i){throw console.error(`Failed to append to file ${n}: ${i}`),i}}async function L(e,n,t){try{let i=(0,T.normalizePath)(n),r=e.getAbstractFileByPath(i);return!r||!(r instanceof T.TFile)?null:(await e.read(r)).includes(t)}catch(i){return console.error(`Failed to check file content ${n}: ${i}`),null}}var Pn="###### [[verfeinden]] *[[sich]]* `mit` jM\n- `Mit` wem [[hast]] du *[[sich|dich]]* [[verfeindet]]?\n- `Mit` meinem ehemaligen Freund.\n\n- Warum [[hat]] sie *[[sich|sich]]* `mit` ihm [[verfeindet]]?\n",Kn=`###### rennen
 - Wohin rennst du?
 - Zum Bus.
@@ -1207,6 +1208,14 @@ sie, [[verstopfen]], [[verstopften]], [[verstopfen]], [[verstopften]], [[verstop
 *Zu + Inf*: zu [[verstopfen]], *P2*: [[verstopft]]
 Adjektive: [[verstopfend]], [[verstopfender]], [[verstopfendst]]</agent_output>
 </example>
+
+<example>
+<german_word>gehoben</german_word>
+<agent_output>Adjektive: [[gehoben]], [[gehobener]], [[gehobenest]]</agent_output>
+</example>
+
+"gehobener" -> "\u{1F3A9} gehoben",
+
 `;var Be=`<assistant_role>You are a German morphological analysis assistant that provides morphological analysis and structured segmentation for compound words.  Your task is to take any given German word and generate two segmentation formats for its normal from following a precise syntax notation.</assistant_role>
 <instructions>
 0. Identify the normal from of the given word. In this context, Partizip 1's normal from is an infinitive of a corresponding verb.
