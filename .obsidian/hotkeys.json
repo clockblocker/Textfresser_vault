@@ -142,5 +142,23 @@
       ],
       "key": "S"
     }
+  ],
+  "cbcr-text-eater-de:check-schriben": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "cbcr-text-eater-de:duplicate-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

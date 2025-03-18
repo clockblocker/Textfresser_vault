@@ -7,40 +7,56 @@
 
 Давай в него прыгнем -> [[Eins]] <- Прыг!
 
-Alle warten auf das Licht  
-Fürchtet euch, fürchtet euch nicht  
-Die Sonne scheint mir aus den AugenSie wird heut Nacht nicht untergeh'n  
-Und die Welt zählt laut bis zehn
+*[[Sonne#^1|^]]* Alle warten auf das Licht  
+Fürchtet euch, fürchtet euch nicht ^1
 
-(Eins) Hier kommt die Sonne  
-(Zwei) Hier kommt die Sonne  
-(Drei) Sie ist der hellste Stern von allen  
-(Vier) Hier kommt die Sonne
+*[[Sonne#^2|^]]* Die Sonne scheint mir aus den Augen
+Sie wird heut Nacht nicht untergeh'n  
+Und die Welt zählt laut bis zehn ^2
+
+
+*[[Sonne#^3|^]]* (Eins) Hier kommt die Sonne  
+(Zwei) Hier kommt die Sonne ^3
+
+*[[Sonne#^4|^]]* (Drei) Sie ist der hellste Stern von allen  
+(Vier) Hier kommt die Sonne ^4
+
   
-Die Sonne scheint mir aus den Händen  
-Kann verbrennen, kann euch blenden  
-Wenn sie aus den Fäusten bricht  
-Legt sich heiß auf das Gesicht
+*[[Sonne#^5|^]]* Die Sonne scheint mir aus den Händen  
+Kann verbrennen, kann euch blenden ^5
 
-Und die Welt zählt laut bis zehn
+*[[Sonne#^6|^]]* Wenn sie aus den Fäusten bricht  
+Legt sich heiß auf das Gesicht ^6
+
+
+*[[Sonne#^7|^]]* Und die Welt zählt laut bis zehn ^7
+
 
 (Eins) Hier kommt die Sonne  
 (Zwei) Hier kommt die Sonne  
-(Drei) Sie ist der hellste Stern von allen  
-(Vier) Hier kommt die Sonne  
+*[[Sonne#^8|^]]* (Drei) Sie ist der hellste Stern von allen  
+(Vier) Hier kommt die Sonne ^8
+
 (Fünf) Hier kommt die Sonne  
 (Sechs) Hier kommt die Sonne  
-(Sieben) Sie ist der hellste Stern von allen  
+*[[Sonne#^10|^]]* (Sieben) Sie ist der hellste Stern von allen 
+Hier kommt die Sonne ^10
 
-Die Sonne scheint mir aus den Händen  
-Kann verbrennen, kann dich blenden  
-Wenn sie aus den Fäusten bricht  
-Legt sich heiß auf dein Gesicht
 
-Legt sich schmerzend auf die Brust  
-Das Gleichgewicht wird zum Verlust  
-Lässt dich hart zu Boden geh'n
-  
+*[[Sonne#^9|^]]* Die Sonne scheint mir aus den Händen  
+Kann verbrennen, kann dich blenden ^9
+
+*[[Sonne#^11|^]]* Wenn sie aus den Fäusten bricht  
+Legt sich heiß auf dein Gesicht ^11
+
+
+*[[Sonne#^12|^]]* Legt sich schmerzend auf die Brust  
+Das Gleichgewicht wird zum Verlust ^12
+
+*[[Sonne#^13|^]]* Lässt dich hart zu Boden geh'n
+Und die Welt zählt laut bis zehn ^13
+
+
 (Eins) Hier kommt die Sonne  
 (Zwei) Hier kommt die Sonne  
 (Drei) Sie ist der hellste Stern von allen
