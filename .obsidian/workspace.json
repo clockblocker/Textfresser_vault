@@ -11,14 +11,10 @@
             "id": "73f6e1806ed91d1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обучение"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -171,20 +167,40 @@
   },
   "active": "73f6e1806ed91d1d",
   "lastOpenFiles": [
-    "Texte/Extra/1.1 Sams Ankunft.md",
-    "Texte/Rammstein/Sonne.md",
-    "Worter/Untitled.md",
-    "Worter/ver.md",
-    "Texte/Extra/2 Sam Geht Einkaufen.md",
-    "Worter/Geschichte.md",
     "Обучение.md",
-    "Worter/Слово, взятое в двойные квадратные скобки.md",
-    "Worter/Tanzen.md",
-    "Worter/СЛОВО_1.md",
-    "Worter/аufpаssеn.md",
-    "Worter/Eins.md",
-    "Worter/Wortlisten/Der List der Zahlen.md",
-    "Worter/zweiteste.md",
-    "Worter/zwei.md"
+    "Grammatik/Präpositionen/Übungen/Präpositionen Übung 6 Setzen Sie die Präposition und den Artikel in dem richtigen Kasus ein..md",
+    "Grammatik/Präpositionen/Übungen/Präpositionen Übung 5.md",
+    "Grammatik/Präpositionen/Übungen/Präpositionen Übung 4.md",
+    "Grammatik/Präpositionen/Übungen/Präpositionen Übung 3.md",
+    "Grammatik/Präpositionen/Übungen/Präpositionen Übung 2 Präpositionen in kausalem Gebrauch.md",
+    "Grammatik/Präpositionen/Übungen/Präpositionen Übung 1 Präpositionen in temporalem Gebrauch.md",
+    "Grammatik/Präpositionen/4 Wechsel/über Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/zwischen Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/vor Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/unter Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/neben Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/in Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/hinter Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/auf Präposition.md",
+    "Grammatik/Präpositionen/4 Wechsel/an Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/während Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/wegen Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/unterhalb Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/trotz Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/statt Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/oberhalb Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/mithilfe Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/kraft Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/jenseits Präposition.md",
+    "Grammatik/Präpositionen/3 Gen/infolge Präposition.md",
+    "Grammatik/Präpositionen/Übungen",
+    "Grammatik/Präpositionen/4 Wechsel",
+    "Grammatik/Präpositionen/3 Gen",
+    "Grammatik/Präpositionen/2 Dat",
+    "Grammatik/Präpositionen/1 Akk",
+    "Grammatik/Präpositionen",
+    "Grammatik/Praxisen",
+    "Grammatik/Partikel",
+    "Grammatik"
   ]
 }
