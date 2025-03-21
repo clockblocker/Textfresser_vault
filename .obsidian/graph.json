@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " !path:Grammatik",
+  "search": "!path:Grammatik/*",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.290953734571281,
-  "close": false
+  "close": true
 }
