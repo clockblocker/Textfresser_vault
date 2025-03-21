@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e12f5021adc39b",
+        "id": "569be7ecf164b368",
         "type": "tabs",
         "children": [
           {
-            "id": "73f6e1806ed91d1d",
+            "id": "d13e8054e34c3634",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Обучение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обучение"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/sollen.md",
+                "file": "Обучение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sollen"
+              "title": "Backlinks for Обучение"
             }
           },
           {
@@ -165,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73f6e1806ed91d1d",
+  "active": "d13e8054e34c3634",
   "lastOpenFiles": [
     "Обучение.md",
+    "README.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 6 Setzen Sie die Präposition und den Artikel in dem richtigen Kasus ein..md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 5.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 4.md",
@@ -192,7 +197,6 @@
     "Grammatik/Präpositionen/3 Gen/mithilfe Präposition.md",
     "Grammatik/Präpositionen/3 Gen/kraft Präposition.md",
     "Grammatik/Präpositionen/3 Gen/jenseits Präposition.md",
-    "Grammatik/Präpositionen/3 Gen/infolge Präposition.md",
     "Grammatik/Präpositionen/Übungen",
     "Grammatik/Präpositionen/4 Wechsel",
     "Grammatik/Präpositionen/3 Gen",
