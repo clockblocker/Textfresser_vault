@@ -1,5 +1,4 @@
 Setzen Sie die Präposition und den Artikel in dem richtigen Kasus ein.
-
 1. Meine Freude ... d... Einladung ... - d... Konzert am kommenden Sonntag ist sehr groß.
 2. Wir teilen deine Ansicht ... - d... Vorgang nicht.
 3. Die plötzliche Nachfrage ... d... Regenmäntel kann in unserer Stadt nicht gedeckt werden.

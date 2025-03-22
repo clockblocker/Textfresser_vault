@@ -15,3 +15,5 @@ Setze die richtige Präposition ein!
 12. ... der Überschrift des Textes steht das Datum.
 13. ... des Kommentars steht der Name des Autors.
 14. ... meines kranken Bruders bleibe ich zu Hause.
+
+

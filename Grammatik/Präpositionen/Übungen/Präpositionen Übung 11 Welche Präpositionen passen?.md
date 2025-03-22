@@ -1,4 +1,4 @@
-1. Meine Tochter freut sich schon ... die Sommerferien.
+1. Meine Tochter freut sich schon ... die Sommerferien. 
 2. Ich fahre im August ... Kroatien.
 3. Auf dem Dach sitzt ein großer Vogel.
 4. Wann musst du morgen ... dem Arzt gehen?
