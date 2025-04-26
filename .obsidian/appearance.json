@@ -4,8 +4,10 @@
     "default-img-size",
     "custom-links",
     "custom-highlighting",
-    "custom-block-ids"
+    "custom-block-ids",
+    "custom-italics"
   ],
   "translucency": false,
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "theme": "obsidian"
 }

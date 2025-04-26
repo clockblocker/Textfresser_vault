@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "569be7ecf164b368",
+        "id": "25da43e772d714d1",
         "type": "tabs",
         "children": [
           {
-            "id": "d13e8054e34c3634",
+            "id": "c26d05d39b4471c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammatik/Präpositionen/Präpositionen Alle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Präpositionen Alle"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,8 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d13e8054e34c3634",
+  "active": "c26d05d39b4471c9",
   "lastOpenFiles": [
+    "Grammatik/Praxisen/Alle Prafixen.md",
+    "Wortlisten/Conjunctions.md",
+    "Wortlisten/CONNECTOR.md",
+    "Wortlisten/da....md",
+    "Grammatik/Präpositionen/Präpositionen Alle.md",
+    "Обучение.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 9 Präpositionen in temporalem Gebrauch.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 8 Präpositionen in kausalem Gebrauch.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 7 Genitiv.md",
@@ -184,7 +186,6 @@
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 10  stehenden Satzteile in den Genitiv.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 1 mit Dativ (WO?).md",
     "Grammatik/Präpositionen/Übungen",
-    "Обучение.md",
     "README.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 6 Setzen Sie die Präposition und den Artikel in dem richtigen Kasus ein..md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 5.md",
@@ -193,11 +194,6 @@
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 2 Präpositionen in kausalem Gebrauch.md",
     "Grammatik/Präpositionen/Übungen/Präpositionen Übung 1 Präpositionen in temporalem Gebrauch.md",
     "Grammatik/Präpositionen/4 Wechsel/über Präposition.md",
-    "Grammatik/Präpositionen/4 Wechsel/zwischen Präposition.md",
-    "Grammatik/Präpositionen/4 Wechsel/vor Präposition.md",
-    "Grammatik/Präpositionen/4 Wechsel/unter Präposition.md",
-    "Grammatik/Präpositionen/4 Wechsel/neben Präposition.md",
-    "Grammatik/Präpositionen/4 Wechsel/in Präposition.md",
     "Grammatik/Präpositionen/4 Wechsel",
     "Grammatik/Präpositionen/3 Gen",
     "Grammatik/Präpositionen/2 Dat",
